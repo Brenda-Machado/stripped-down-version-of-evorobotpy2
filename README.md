@@ -6,12 +6,12 @@ Repository of the investigation conducted in https://dl.acm.org/doi/10.1145/3583
 
 Please use this BibTeX to cite this repository in your publications:
 ```
-@misc{evorobotpy2,
-  author = {Stefano Nolfi, Brenda S. Machado and Arthur H. Bianchini},
-  title = {A tool for training robots through evolutionary and reinforcement learning methods},
+@misc{evorobotpy2ne,
+  author = {Bianchini, Arthur Holtrup and Nolfi, Stefano and Machado, Brenda Silva},
+  title = {A stripped-down version of evorobotpy2 with OpenAI-ES-NE and some experiments results},
   year = {2023},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/Brenda-Machado/evorobotpy2/}},
+  howpublished = {\url{https://github.com/Brenda-Machado/stripped-down-version-of-evorobotpy2/}},
 }
 ```
